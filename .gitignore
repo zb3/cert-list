@@ -1,0 +1,7 @@
+__pycache__/
+curr/*
+archive/
+filtered/*
+last-id/*
+*.pyc
+!.gitkeep
